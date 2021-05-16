@@ -1,4 +1,4 @@
-# frontendvue2
+# Fronend Vue.js
 
 ## Project setup
 ```
